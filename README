@@ -1,5 +1,6 @@
 To test:
 
+ * "bundle install"
  * in one terminal window: "ruby server.rb"
  * in another terminal window: "cucumber"
  

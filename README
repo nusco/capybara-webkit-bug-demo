@@ -1,0 +1,6 @@
+To test:
+
+ * in one terminal window: "ruby server.rb"
+ * in another terminal window: "cucumber"
+ 
+Read the result. On my system, I get a number of silly results in place of a 200. (Usually zeros, but also plenty of semi-random numbers)
